@@ -3,6 +3,12 @@
 <img align="right" width="120" height="120"
      src="./logo.svg" alt="Browserslist logo by Anton Lovchikov">
 
+## What I want to do differently
+
+1. have good data.
+2. have good queries.
+3. not try to control people
+
 Library to share supported browsers list between different front-end tools.
 It is used in:
 
